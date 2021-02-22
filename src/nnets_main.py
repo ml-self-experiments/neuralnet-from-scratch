@@ -3,7 +3,7 @@
     The algorithm used is 'stochastic gradient descent' which uses gradient descent for the optimization.
     Gradient of cost function w.r.t weights and biases are calculated using backpropogation algorithm.
 
-    This code is studied from book written by Michael Nielsen (http://neuralnetworksanddeeplearning.com/)
+    This code is studied from book written by Michael Nielsen and also concepts learned from coursera deep learning specialization.
 """
 
 import numpy as np
